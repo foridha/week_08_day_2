@@ -68,7 +68,7 @@ describe('sum', () => {
     actual = odd(3)
     expect(actual).toBe(expected);
   });
-
+  
 });
 
 
